@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IZ10\IZ10\bin\Debug\IZ10.exe.config
+C:\Users\User\source\repos\IZ10\IZ10\bin\Debug\IZ10.exe
+C:\Users\User\source\repos\IZ10\IZ10\bin\Debug\IZ10.pdb
+C:\Users\User\source\repos\IZ10\IZ10\obj\Debug\IZ10.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IZ10\IZ10\obj\Debug\IZ10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IZ10\IZ10\obj\Debug\IZ10.exe
+C:\Users\User\source\repos\IZ10\IZ10\obj\Debug\IZ10.pdb
