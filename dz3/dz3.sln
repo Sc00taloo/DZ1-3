@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz3", "dz3\dz3.vcxproj", "{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Debug|x64.ActiveCfg = Debug|x64
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Debug|x64.Build.0 = Debug|x64
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Debug|x86.Build.0 = Debug|Win32
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Release|x64.ActiveCfg = Release|x64
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Release|x64.Build.0 = Release|x64
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Release|x86.ActiveCfg = Release|Win32
+		{D6156CBF-6307-4C1F-BC40-4E21E7D40F23}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE73A18-5488-4E5A-92D1-1E855E488F76}
+	EndGlobalSection
+EndGlobal
