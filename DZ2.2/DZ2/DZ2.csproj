@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PermSPovt\PermSPovt\PermSPovt.csproj" />
+    <ProjectReference Include="..\..\Users\User\source\repos\IZ10\IZ10\IZ10.csproj" />
+  </ItemGroup>
+
+</Project>
