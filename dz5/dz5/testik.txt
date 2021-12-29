@@ -1,0 +1,22 @@
+Alphabet : {a, b, c, d, e, f}
+aaaa
+aaab
+aaac
+aaad
+aaae
+aaaf
+aaba
+aaca
+aada
+aaea
+aafa
+abaa
+acaa
+adaa
+aeaa
+afaa
+baaa
+caaa
+daaa
+eaaa
+faaa
