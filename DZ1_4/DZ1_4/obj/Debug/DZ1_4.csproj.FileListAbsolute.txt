@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DZ1_4\DZ1_4\bin\Debug\DZ1_4.exe.config
+C:\Users\User\source\repos\DZ1_4\DZ1_4\bin\Debug\DZ1_4.exe
+C:\Users\User\source\repos\DZ1_4\DZ1_4\bin\Debug\DZ1_4.pdb
+C:\Users\User\source\repos\DZ1_4\DZ1_4\obj\Debug\DZ1_4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DZ1_4\DZ1_4\obj\Debug\DZ1_4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DZ1_4\DZ1_4\obj\Debug\DZ1_4.exe
+C:\Users\User\source\repos\DZ1_4\DZ1_4\obj\Debug\DZ1_4.pdb
